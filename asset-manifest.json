@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/keep2.0/static/css/main.e0007bcf.chunk.css",
+    "main.js": "/keep2.0/static/js/main.7a25831f.chunk.js",
+    "main.js.map": "/keep2.0/static/js/main.7a25831f.chunk.js.map",
+    "runtime-main.js": "/keep2.0/static/js/runtime-main.38b1cc48.js",
+    "runtime-main.js.map": "/keep2.0/static/js/runtime-main.38b1cc48.js.map",
+    "static/js/2.c37a05b2.chunk.js": "/keep2.0/static/js/2.c37a05b2.chunk.js",
+    "static/js/2.c37a05b2.chunk.js.map": "/keep2.0/static/js/2.c37a05b2.chunk.js.map",
+    "static/js/3.c507d9a3.chunk.js": "/keep2.0/static/js/3.c507d9a3.chunk.js",
+    "static/js/3.c507d9a3.chunk.js.map": "/keep2.0/static/js/3.c507d9a3.chunk.js.map",
+    "index.html": "/keep2.0/index.html",
+    "static/css/main.e0007bcf.chunk.css.map": "/keep2.0/static/css/main.e0007bcf.chunk.css.map",
+    "static/js/2.c37a05b2.chunk.js.LICENSE.txt": "/keep2.0/static/js/2.c37a05b2.chunk.js.LICENSE.txt",
+    "static/media/jklogo.2ead96e5.png": "/keep2.0/static/media/jklogo.2ead96e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38b1cc48.js",
+    "static/js/2.c37a05b2.chunk.js",
+    "static/css/main.e0007bcf.chunk.css",
+    "static/js/main.7a25831f.chunk.js"
+  ]
+}
